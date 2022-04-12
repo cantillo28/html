@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    color: #313131;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url('../img/fundoVer.jpg');
+    
+}
+
+
+.titulo{
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    
+}
+
+.logo{
+    height: 130px;
+    margin-top:1px;
+}
+
+#sub{
+    text-align: center;
+    color: #313131;
+}
+
+.menu {
+    display:inline;
+    margin-left: 40px;
+    border-radius: 3px;
+}
+
+.menu li {
+    padding: 10px 20px;
+}
+
+.menu a,
+.link {
+    text-decoration: none;
+    color: #313131;
+    font-weight: bold;
+    font-size: 14px !important;
+}
+
+.menu a:hover{
+    color: #ccc;
+}
+
+
+.coluna-1-4 {
+    width: 75%;
+}
+
+
+
